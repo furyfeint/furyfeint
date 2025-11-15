@@ -21,8 +21,8 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently studying in [Nanjing University of Posts and Telecommunications](https://i.njupt.edu.cn/portal);
 - 🌱 I’m currently learning Python and Machine Learning; 
-- 👯 I’m looking to apply my knowledge on Robust & Edge Devices 🤝;
-- 🤔 I’m looking for help with non-enzymatic Electrochemical Biosensors 😭;
+- 👯 I’m looking to apply my knowledge on Robust & Edge Devices;
+- 🤔 I’m looking for help with non-enzymatic Electrochemical Biosensors;
 - 📖 I’m dedicated to learn Chinese have finished HSK-02 and started HSK-03.
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I will have a degree in electronic information engineering;

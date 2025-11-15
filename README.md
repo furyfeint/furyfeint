@@ -30,6 +30,18 @@ You can use the website to generate badges: https://shields.io/
 
 
 
+<p align="center">
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="43" height="43"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="43" height="43"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="43" height="43"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="43" height="43"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="43" height="43"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="43" height="43"/> </a> </p>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furyfeint&layout=compact)](https://github.com/furyfeint/github-readme-stats&layout=compact)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furyfeint&show_icons=true)](https://github.com/furyfeint/github-readme-stats&show_icons=true)
+
+
+<h3 align="center">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/furyfeint"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="300" alt="furyfeint" /></a></p><br><br>
+
 

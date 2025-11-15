@@ -41,7 +41,5 @@ You can use the website to generate badges: https://shields.io/
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furyfeint&show_icons=true)](https://github.com/furyfeint/github-readme-stats&show_icons=true)
 
 
-<h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/furyfeint"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="300" alt="furyfeint" /></a></p><br><br>
 
 

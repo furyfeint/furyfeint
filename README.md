@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently studying in [NJUPT](https://i.njupt.edu.cn/portal);
+- 👨🏽‍💻 I’m currently studying in [Nanjing University of Posts and Telecommunications](https://i.njupt.edu.cn/portal);
 - 🌱 I’m currently learning Python and Machine Learning; 
 - 👯 I’m looking to apply my knowledge on Robust & Edge Devices 🤝;
 - 🤔 I’m looking for help with non-enzymatic Electrochemical Biosensors 😭;

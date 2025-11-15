@@ -28,9 +28,8 @@ You can use the website to generate badges: https://shields.io/
 - ⚡️ Fun-Fact: I will have a degree in electronic information engineering;
 - 📫 How to reach me: f24010110@njupt.edu.cn;
 
-**Languages and Tools:** 
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furyfeint)](https://github.com/furyfeint/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furyfeint&layout=compact)](https://github.com/furyfeint/github-readme-stats&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furyfeint&show_icons=true)](https://github.com/furyfeint/github-readme-stats&show_icons=true)
 

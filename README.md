@@ -37,9 +37,7 @@ You can use the website to generate badges: https://shields.io/
 <p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="43" height="43"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="43" height="43"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="43" height="43"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="43" height="43"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="43" height="43"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="43" height="43"/> </a> </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furyfeint&layout=compact)](https://github.com/furyfeint/github-readme-stats&layout=compact)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furyfeint&show_icons=true)](https://github.com/furyfeint/github-readme-stats&show_icons=true)
-
-
-
+<a href="https://github.com/furufeint/convoychat">
+  <img alt="top langs" align="left" width="477" src="https://github-readme-stats.vercel.app/api/top-langs?username=furyfeint&layout=compact" />
+  <img alt="my stats" align="left" width="443" src="https://github-readme-stats.vercel.app/api/?username=furyfeint&show_icons=true" />
 

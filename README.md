@@ -38,6 +38,6 @@ You can use the website to generate badges: https://shields.io/
 
 
 <a href="https://github.com/furufeint/convoychat">
-  <img alt="top langs" align="left" width="477" src="https://github-readme-stats.vercel.app/api/top-langs?username=furyfeint&layout=compact" />
+  <img alt="top langs" align="left" width="443" src="https://github-readme-stats.vercel.app/api/top-langs?username=furyfeint&layout=compact" />
   <img alt="my stats" align="left" width="443" src="https://github-readme-stats.vercel.app/api/?username=furyfeint&show_icons=true" />
 
